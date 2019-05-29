@@ -1,0 +1,24 @@
+{
+  "name": "e-Student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarabanovichYP/GIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarabanovichYP/GIT/issues"
+  },
+  "homepage": "https://github.com/KarabanovichYP/GIT#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  }
+}

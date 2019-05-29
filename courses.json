@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Math",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    },
+    {
+        "name": "Biology",
+        "price": "250",
+        "open": true,
+        "schedule": "Tue, Wed",
+        "users": []
+    },
+    {
+        "name": "Law",
+        "price": "250",
+        "open": true,
+        "schedule": "Fri",
+        "users": []
+    },
+    {
+        "name": "Programming",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    },
+    {
+        "name": "Math2",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    },
+    {
+        "name": "Biology2",
+        "price": "250",
+        "open": true,
+        "schedule": "Tue, Wed",
+        "users": []
+    },
+    {
+        "name": "Law2",
+        "price": "250",
+        "open": true,
+        "schedule": "Fri",
+        "users": []
+    },
+    {
+        "name": "Programming2",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    },
+    {
+        "name": "Math3",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    },
+    {
+        "name": "Biology3",
+        "price": "250",
+        "open": true,
+        "schedule": "Tue, Wed",
+        "users": []
+    },
+    {
+        "name": "Law3",
+        "price": "250",
+        "open": true,
+        "schedule": "Fri",
+        "users": []
+    },
+    {
+        "name": "Programming3",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    },
+    {
+        "name": "Math4",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    },
+    {
+        "name": "Biology4",
+        "price": "250",
+        "open": true,
+        "schedule": "Tue, Wed",
+        "users": []
+    },
+    {
+        "name": "Law4",
+        "price": "250",
+        "open": true,
+        "schedule": "Fri",
+        "users": []
+    },
+    {
+        "name": "Programming4",
+        "price": "250",
+        "open": true,
+        "schedule": "Mon, Tue",
+        "users": []
+    }
+]
